@@ -1,0 +1,8 @@
+
+.ipynb_checkpoints/README-checkpoint.md
+.ipynb_checkpoints/Main_Analysis-checkpoint.ipynb
+*.log
+catboost_info/catboost_training.json
+catboost_info/learn/events.out.tfevents
+catboost_info/learn_error.tsv
+catboost_info/time_left.tsv
